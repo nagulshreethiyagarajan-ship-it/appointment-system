@@ -260,4 +260,5 @@ When presenting this project in a review or viva:
 6. **Demonstrate Role-Based Access Control**: Sign in as Admin to create a patient profile with custom credentials, then log in as that Patient to verify selective access and personalized booking history.
 
 #   a p p o i n t m e n t - s y s t e m  
+ #   a p p o i n t m e n t - s y s t e m  
  
